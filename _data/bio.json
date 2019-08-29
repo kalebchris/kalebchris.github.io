@@ -2,7 +2,7 @@
   "basics": {
     "name": "Kaleb Sandin",
     "label": "Student",
-    "picture": "https://kcsandin.github.io/images/drake.png",
+    "picture": "https://kcsandin.github.io/images/kcsan.jpg",
     "email": "sandin7@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https://kcsandin.github.io",
@@ -53,15 +53,10 @@
       "keywords": [
       ]
     }
-    {
-      "name": "Animation",
-      "keywords": [
-      ]
-    }
   ],
   "skills": [
     {
-      "name": "HTML5, CSS3, jQuery, C#, SQL, PostgreSQL, CLI",
+      "name": "C#, SQL",
       "level": "",
       "keywords": [
         "C",
