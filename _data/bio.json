@@ -32,7 +32,7 @@
       },
     ]
   },
-  "interests": [
+  "interests":[
     {
       "name": "App Development",
       "keywords": [
@@ -45,11 +45,6 @@
     },
     {
       "name": "AI Machine Learning",
-      "keywords": [
-      ]
-    }
-    {
-      "name": "Graphic Design",
       "keywords": [
       ]
     }
