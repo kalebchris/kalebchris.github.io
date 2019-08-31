@@ -51,15 +51,19 @@
   ],
   "skills": [
     {
-      "name": "C#, SQL",
+      "name": "Coding Languages",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "C#",
+        "Swift",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "jQuery",
+        "HTML",
+        "CSS",
+        "SQL",
+        "PSQL",
+        "CLI"
       ]
     },
     {
@@ -71,6 +75,38 @@
         "Git/GitHub",
         "g++",
         "TI LaunchPad"
+      ]
+    },
+    {
+      "name": "Database Management Tools",
+      "level": "",
+      "keywords": [
+        "pgAdmin",
+        "Access",
+        "Excel",
+        "AWS"
+      ]
+    }
+    {
+      "name": "IDE",
+      "level": "",
+      "keywords": [
+        "MS Visual Studio ASP.NET",
+        "Dreamweaver",
+        "Xcode",
+        "Unity",
+        "Eclipse"
+      ]
+    }
+    {
+      "name": "Design Tools",
+      "level": "",
+      "keywords": [
+        "Adobe: Photoshop",
+        "Illustrator",
+        "InDesign",
+        "Acrobat",
+        "CMS: WordPress"
       ]
     }
   ],
@@ -91,24 +127,33 @@
       "company": "UH Manoa",
       "position": "Web Developer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2018-11-01",
       "endDate": "Present",
       "summary": "Student",
       "highlights": [
-        "Maintain, update, and oversee department's website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Tasked with maintaining, updating, and overseeing department websites and online projects."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Self-Destruction Labs, LLC",
+      "position": "Developer",
+      "website": "",
+      "startDate": "2014-04-01",
+      "endDate": "2018-04-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Indie game developer start-up, focused on introducing dynamic game narrative platforms and animation."
+      ]
+    }
+     {
+      "company": "RCUH",
+      "position": "VMware Lab Technician",
+      "website": "",
+      "startDate": "2016-03-01",
+      "endDate": "2017-03-01",
+      "summary": "",
+      "highlights": [
+        "1-year contract, as an IT student, tasked with implementing and running QA tests on new virtual environment labs for college's Information Technology dept."
       ]
     }
   ],
