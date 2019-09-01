@@ -135,7 +135,7 @@
   "work": [
     {
       "company": "UH Manoa",
-      "position": "Web Developer",
+      "position": "Student Web Developer",
       "website": "",
       "startDate": "2018-11-01",
       "endDate": "Present",
@@ -145,11 +145,11 @@
       ]
     },
     {
-      "company": "Self-Destruction Labs, LLC",
+      "company": "Gradient Concept Studios, LLC",
       "position": "Developer",
       "website": "",
       "startDate": "2014-04-01",
-      "endDate": "2018-04-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
         "Indie game developer start-up, focused on introducing dynamic game narrative platforms and animation."
@@ -167,45 +167,32 @@
       ]
     }
   ],
-  "volunteer": [
+  "Internship": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "SOS Hawaii, LLC",
+      "website": "",
+      "position": "VMware Intern",
+      "startDate": "2015-10-01",
+      "endDate": "",
+      "summary": "Implementing virtualization in large to small businesses, allowing efficient data storage and management procedures",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "VMware ESXi vSphere5.5",
+        "Initializing new network structures with vLan and vMigration"
       ]
     },
     {
-      "organization": "",
+      "organization": "SDSU Veterinary Diagnostics Lab",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "Veterinary Student Assistant",
       "startDate": "",
       "endDate": "",
-      "summary": "",
+      "summary": "On-Field In-Lab diagnostic work with large farm stock: Horse and Cattle",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Collecting data on farm stock dietary habits",
+        "Caring for sick horse and cattle groups",
+        "Preparing animal tissue samples for analysis",
+        "Assisting Veterinarian with animal autopsy for diagnosing cause of death"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
