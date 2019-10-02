@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Kaleb Sandin",
-    "label": "Student",
+    "label": "Creative",
     "picture": "https://kcsandin.github.io/images/kcsan.jpeg",
     "email": "sandin7@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https://kcsandin.github.io",
-    "summary": "I am currently pursuing my Bachelors Degree in Information Systems, at the University of Hawaii. I will be graduating Spring, 2021.",
+    "summary": "I am a self-taught developer, where I believe in continually developing my abilities and self-starting projects to practice improving my skillset.",
     "location": {
       "address": "",
-      "postalCode": "96814",
-      "city": "Honolulu",
+      "postalCode": "55110",
+      "city": "Saint Paul",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "MN"
     },
     "profiles": [
       {
@@ -23,22 +23,22 @@
       {
         "network": "linkedin",
         "username": "kcsandin",
-        "url": "https://linkedin.com/in/changeme"
+        "url": "https://linkedin.com/in/kcsandin"
       },
       {
         "network": "angellist",
         "username": "kcsandin",
-        "url": "https://angel.co/kc"
+        "url": "https://angel.co/kcsandin"
       },
       {
         "network": "dice",
         "username": "kcsandin",
-        "url": "https://www.dice.com/kc"
+        "url": "https://www.dice.com/kcsandin"
       },
       {
         "network": "behance",
         "username": "runsonpasta",
-        "url": "https://behance.net/kc"
+        "url": "https://behance.net/runsonpasta"
       },
     ]
   },
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "AI Machine Learning",
+      "name": "Graphic Design",
       "keywords": [
       ]
     }
@@ -65,9 +65,9 @@
       "level": "",
       "keywords": [
         "C#",
-        "Swift",
-        "Java",
-        "Javascript",
+        "Swift (currently learning)",
+        "Java (currently learning)",
+        "Javascript (currently learning)",
         "jQuery",
         "HTML",
         "CSS",
@@ -122,10 +122,10 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Information Systems (expected Spring, 2021)",
-      "studyType": "B.B.A.",
-      "startDate": "2018-08-26",
+      "institution": "Western Governors University",
+      "area": "Computer Science (expected Spring, 2021)",
+      "studyType": "B.S.",
+      "startDate": "2019-10-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -134,34 +134,34 @@
   ],
   "work": [
     {
-      "company": "UH Manoa",
-      "position": "Student Web Developer",
+      "company": "University of Hawaii",
+      "position": "Student Web Developer and Designer",
       "website": "",
       "startDate": "2018-11-01",
-      "endDate": "Present",
-      "summary": "Student",
+      "endDate": "2019-10-01",
+      "summary": "University Website Management",
       "highlights": [
         "Tasked with maintaining, updating, and overseeing department websites and online projects."
       ]
     },
     {
       "company": "Gradient Concept Studios, LLC",
-      "position": "Developer",
-      "website": "",
+      "position": "Developer and Concept Artist",
+      "website": "imperialstudiosgames.com",
       "startDate": "2014-04-01",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Start-up Indie Game Developer",
       "highlights": [
         "Indie game developer start-up, focused on introducing dynamic game narrative platforms and animation."
       ]
     }
      {
-      "company": "RCUH",
-      "position": "VMware Lab Technician",
+      "company": "(RCUH) Research Center for the University of Hawaii",
+      "position": "Information Technology Student Assistant",
       "website": "",
       "startDate": "2016-03-01",
       "endDate": "2017-03-01",
-      "summary": "",
+      "summary": "VMware Project",
       "highlights": [
         "1-year contract, as an IT student, tasked with implementing and running QA tests on new virtual environment labs for college's Information Technology dept."
       ]
