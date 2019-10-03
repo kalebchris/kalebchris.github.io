@@ -31,11 +31,6 @@
         "url": "https://angel.co/kcsandin"
       },
       {
-        "network": "dice",
-        "username": "kcsandin",
-        "url": "https://www.dice.com/kcsandin"
-      },
-      {
         "network": "behance",
         "username": "runsonpasta",
         "url": "https://behance.net/runsonpasta"
@@ -65,15 +60,12 @@
       "level": "",
       "keywords": [
         "C#",
-        "Swift (currently learning)",
-        "Java (currently learning)",
-        "Javascript (currently learning)",
         "jQuery",
         "HTML",
         "CSS",
         "SQL",
         "PSQL",
-        "CLI"
+        "Command Line"
       ]
     },
     {
@@ -81,10 +73,9 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Linux",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Ubuntu"
       ]
     },
     {
@@ -148,8 +139,8 @@
       "company": "Gradient Concept Studios, LLC",
       "position": "Developer and Concept Artist",
       "website": "imperialstudiosgames.com",
-      "startDate": "2014-04-01",
-      "endDate": "Present",
+      "startDate": "2014-10-01",
+      "endDate": "2018-10-01",
       "summary": "Start-up Indie Game Developer",
       "highlights": [
         "Indie game developer start-up, focused on introducing dynamic game narrative platforms and animation."
