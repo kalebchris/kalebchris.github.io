@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Kaleb Sandin",
+    "name": "Kaleb Chris",
     "label": "Creative",
-    "picture": "https://kcsandin.github.io/images/kcsan.jpeg",
+    "picture": "https://kcsandin.github.io/images/kcgraphic.jpeg",
     "email": "sandin7@hawaii.edu",
     "phone": "808-333-4444",
-    "website": "https://kcsandin.github.io",
-    "summary": "I am a self-taught developer, where I believe in continually developing my abilities and self-starting projects to practice improving my skillset.",
+    "website": "https://kalebchris.github.io",
+    "summary": "I am a self-taught starter, where I believe in continually elevating my abilities to develop innovative projects and improve my skillset as a programmer.",
     "location": {
       "address": "",
       "postalCode": "55110",
@@ -17,18 +17,18 @@
     "profiles": [
       {
         "network": "github",
-        "username": "kcsandin",
-        "url": "https://github.com/kcsandin"
+        "username": "kalebchris",
+        "url": "https://github.com/kalebchris"
       },
       {
         "network": "linkedin",
-        "username": "kcsandin",
-        "url": "https://linkedin.com/in/kcsandin"
+        "username": "kalebchris",
+        "url": "https://linkedin.com/in/kalebchris"
       },
       {
         "network": "angellist",
-        "username": "kcsandin",
-        "url": "https://angel.co/kcsandin"
+        "username": "kalebchris",
+        "url": "https://angel.co/kalebchris"
       },
       {
         "network": "behance",
@@ -87,7 +87,7 @@
         "Excel",
         "AWS"
       ]
-    }
+    },
     {
       "name": "IDE",
       "level": "",
@@ -98,7 +98,7 @@
         "Unity",
         "Eclipse"
       ]
-    }
+    },
     {
       "name": "Design Tools",
       "level": "",
@@ -106,7 +106,7 @@
         "Adobe: Photoshop",
         "Illustrator",
         "InDesign",
-        "Acrobat",
+        "After Effects",
         "CMS: WordPress"
       ]
     }
@@ -125,34 +125,45 @@
   ],
   "work": [
     {
+      "company": "Imperial Studios, LLC",
+      "position": "Developer and Designer",
+      "website": "imperialstudiosgames.com",
+      "startDate": "2018-10-01",
+      "endDate": "Current",
+      "summary": "Start-up Indie Game Dev.",
+      "highlights": [
+        "Tasked with maintaining, updating, and overseeing department websites and online projects."
+      ]
+    },
+    {
       "company": "University of Hawaii",
       "position": "Student Web Developer and Designer",
       "website": "",
       "startDate": "2018-11-01",
-      "endDate": "2019-10-01",
+      "LOA": "2019-10-01",
       "summary": "University Website Management",
       "highlights": [
         "Tasked with maintaining, updating, and overseeing department websites and online projects."
       ]
     },
     {
-      "company": "Gradient Concept Studios, LLC",
-      "position": "Developer and Concept Artist",
-      "website": "imperialstudiosgames.com",
+      "company": "Fifty Agency, LLC",
+      "position": "WordPress Website Designer",
+      "website": "lovelacebridalhi.com",
       "startDate": "2014-10-01",
       "endDate": "2018-10-01",
-      "summary": "Start-up Indie Game Developer",
+      "summary": "WordPress",
       "highlights": [
-        "Indie game developer start-up, focused on introducing dynamic game narrative platforms and animation."
+        "Tailoring custom built templates and from-scratch WordPress websites for small-business clients. Implementing ADA Compliance for user accessibility and incorporating Google Analytics for page traffic."
       ]
-    }
-     {
+    },
+    {
       "company": "(RCUH) Research Center for the University of Hawaii",
       "position": "Information Technology Student Assistant",
       "website": "",
       "startDate": "2016-03-01",
       "endDate": "2017-03-01",
-      "summary": "VMware Project",
+      "summary": "VMware Research",
       "highlights": [
         "1-year contract, as an IT student, tasked with implementing and running QA tests on new virtual environment labs for college's Information Technology dept."
       ]
@@ -168,7 +179,8 @@
       "summary": "Implementing virtualization in large to small businesses, allowing efficient data storage and management procedures",
       "highlights": [
         "VMware ESXi vSphere5.5",
-        "Initializing new network structures with vLan and vMigration"
+        "Initializing vLan, vLink, and vMigration.",
+        "B2B sales and integration of new virtualized storage structures."
       ]
     },
     {
