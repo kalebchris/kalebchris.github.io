@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Kaleb Chris",
-    "label": "Creative",
-    "picture": "https://kcsandin.github.io/images/kcgraphic.jpeg",
-    "email": "sandin7@hawaii.edu",
-    "phone": "808-333-4444",
+    "label": "Developer & Designer",
+    "picture": "https://kalebchris.github.io/images/kcgraphic.jpeg",
+    "email": "kalebchris@protonmail.com",
+    "phone": "808-XXX-XXXX",
     "website": "https://kalebchris.github.io",
     "summary": "I am a self-taught starter, where I believe in continually elevating my abilities to develop innovative projects and improve my skillset as a programmer.",
     "location": {
@@ -132,7 +132,7 @@
       "endDate": "Current",
       "summary": "Start-up Indie Game Dev.",
       "highlights": [
-        "Tasked with maintaining, updating, and overseeing department websites and online projects."
+        ""
       ]
     },
     {
