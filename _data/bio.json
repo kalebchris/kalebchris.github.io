@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Graphic Design",
+      "name": "UI/UX",
       "keywords": [
       ]
     }
@@ -113,10 +113,10 @@
   ],
   "education": [
     {
-      "institution": "Western Governors University",
+      "institution": "Southern New Hampshire University",
       "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2019-10-01",
+      "startDate": "2019-11-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -126,24 +126,24 @@
   "work": [
     {
       "company": "Imperial Studios, LLC",
-      "position": "Developer and Designer",
+      "position": "Developer & Designer",
       "website": "imperialstudiosgames.com",
       "startDate": "2018-10-01",
-      "endDate": "Current",
+      "endDate": "Present",
       "summary": "Start-up Indie Game Dev.",
       "highlights": [
-        ""
+        "Establishing initial project foundations and publishing web presence. Identifying company identity with owner and design team. Drafting concept designs for in-game content and storyboards. Assisting dev team with programming functions for in-game performance and building UI menus."
       ]
     },
     {
       "company": "University of Hawaii",
-      "position": "Student Web Developer and Designer",
+      "position": "Student Web Developer & Designer",
       "website": "",
       "startDate": "2018-11-01",
       "LOA": "2019-10-01",
       "summary": "University Website Management",
       "highlights": [
-        "Tasked with maintaining, updating, and overseeing department websites and online projects."
+        "Tasked with maintaining functionality, updating content, and overseeing department websites and online projects. Meeting state policies by implementing ADA compliance for user accessibility. Integrating utility of Google Analytics for page traffic tracking. Providing general technical support assistance to department staff."
       ]
     },
     {
@@ -154,7 +154,7 @@
       "endDate": "2018-10-01",
       "summary": "WordPress",
       "highlights": [
-        "Tailoring custom built templates and from-scratch WordPress websites for small-business clients. Implementing ADA Compliance for user accessibility and incorporating Google Analytics for page traffic."
+        "Tailoring custom built templates and from-scratch WordPress websites for small-business clients."
       ]
     },
     {
@@ -184,17 +184,17 @@
       ]
     },
     {
-      "organization": "SDSU Veterinary Diagnostics Lab",
+      "organization": "University of Hawaii, Kapiolani CC",
       "website": "",
-      "position": "Veterinary Student Assistant",
-      "startDate": "",
+      "position": "Information Technology Student Intern",
+      "startDate": "2016-01-30",
       "endDate": "",
-      "summary": "On-Field In-Lab diagnostic work with large farm stock: Horse and Cattle",
+      "summary": "On-Site Tech Support",
       "highlights": [
-        "Collecting data on farm stock dietary habits",
-        "Caring for sick horse and cattle groups",
-        "Preparing animal tissue samples for analysis",
-        "Assisting Veterinarian with animal autopsy for diagnosing cause of death"
+        "Performing installations of new hardware and software",
+        "Troubleshooting network layouts",
+        "Setting up new systems and equipment for university staff",
+        "Assisting Facility Operations Help Desk"
       ]
     }
   ],
