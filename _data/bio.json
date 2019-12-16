@@ -22,13 +22,13 @@
       },
       {
         "network": "linkedin",
-        "username": "kalebchris",
-        "url": "https://linkedin.com/in/kalebchris"
+        "username": "kalebsandin",
+        "url": "https://linkedin.com/in/kalebsandin"
       },
       {
         "network": "angellist",
-        "username": "kalebchris",
-        "url": "https://angel.co/kalebchris"
+        "username": "kcsandin",
+        "url": "https://angel.co/kcsandin"
       },
       {
         "network": "behance",
@@ -93,7 +93,7 @@
       "level": "",
       "keywords": [
         "MS Visual Studio ASP.NET",
-        "Dreamweaver",
+        "Adobe Dreamweaver",
         "Xcode",
         "Unity",
         "Eclipse"
@@ -113,10 +113,10 @@
   ],
   "education": [
     {
-      "institution": "Southern New Hampshire University",
+      "institution": "Western Governors University",
       "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2019-11-01",
+      "startDate": "2019-12-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
